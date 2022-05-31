@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.arzefromchina.tempate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.arzefromchina.tempate.MyBundle
 
 class MyApplicationService {
 
